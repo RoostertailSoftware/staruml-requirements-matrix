@@ -1,0 +1,29 @@
+{
+  "name": "roostertailsoftware.staruml-requirements-matrix",
+  "version": "0.0.1",
+  "keywords": [
+    "Requirements",
+    "StarUML",
+    "UML",
+    "SysML",
+    "matrix"
+  ],
+  "description": "Build a matrix of Requirements",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RoostertailSoftware/staruml-requirements-matrix.git"
+  },
+
+  "author": {
+    "name": "Roostertail Software",
+    "email": "john@roostertailsoftware.com",
+    "url": "https://roostertailsoftware.com"
+  },
+  "bugs": "https://github.com/RoostertailSoftware/staruml-requirements-matrix/issues",
+  "engines": {
+    "staruml": ">=4.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}

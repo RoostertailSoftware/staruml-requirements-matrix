@@ -1,0 +1,14 @@
+{
+    "menu": [
+        {
+            "id":"tools",
+            "submenu": [
+                {
+                    "label":    "Build Requirements Matrix",
+                    "id":       "tool.staruml-requirements-matrix",
+                    "command":  "staruml-requirements-matrix:start-matrix"
+                }
+            ]
+        }
+    ]
+}

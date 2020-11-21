@@ -1,0 +1,42 @@
+{
+    "id": "staruml-requirements-reindex",
+    "name": "Req. Reindex",
+    "schema": {
+        "typescript.gen": {
+            "text": "Requirements Matrix Preferences",
+            "type": "section"
+        },
+        "typescript.gen.rtsDerives": {
+            "text": "Show Derives",
+            "description": "Derived (d)",
+            "type": "check",
+            "default": true
+        },
+        "typescript.gen.rtsRefines": {
+            "text": "Show Refines",
+            "description": "Refines (r)",
+            "type": "check",
+            "default": true
+        },
+        "typescript.gen.rtsSatisfies": {
+            "text": "Show Ssatisfies",
+            "description": "Satisfies (s)",
+            "type": "check",
+            "default": true
+        },
+        "typescript.gen.rtsVerifies": {
+            "text": "Show Verifies",
+            "description": "Verifies (v)",
+            "type": "check",
+            "default": true
+        },
+        "typescript.gen.rtsCopy": {
+            "text": "Show Copy",
+            "description": "Copy (c)",
+            "type": "check",
+            "default": true
+        }
+
+
+    }
+}
